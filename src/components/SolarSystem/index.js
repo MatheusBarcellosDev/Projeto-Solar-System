@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import { Carousel } from 'react-responsive-carousel';
-import Title from '../Title/Title';
-import PlanetCard from '../PlanetCard/PlanetCard';
+import Title from '../Title';
+import PlanetCard from '../PlanetCard';
 
 import Container from './styles';
 

@@ -1,8 +1,8 @@
 import React from 'react';
 import './App.css';
-import SolarSystem from './components/SolarSystem/SolarSystem.js';
-import Header from './components/Header/Header.js';
-import Missions from './components/Missions/Missions.js';
+import SolarSystem from './components/SolarSystem';
+import Header from './components/Header';
+import Missions from './components/Missions';
 
 import GlobalStyle from './styles/Global';
 

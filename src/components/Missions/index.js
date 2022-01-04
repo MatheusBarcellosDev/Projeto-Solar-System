@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import Title from '../Title/Title.js';
-import MissionCard from '../MissionCard/MissionCard.js';
+import Title from '../Title';
+import MissionCard from '../MissionCard';
 
 import missions from '../../data/missions.js';
 

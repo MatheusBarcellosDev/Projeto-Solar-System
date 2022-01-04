@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen} from '@testing-library/react';
-import Title from '../components/Title/Title';
+import Title from '../components/Title';
 
 const headlineText = "planets";
 
