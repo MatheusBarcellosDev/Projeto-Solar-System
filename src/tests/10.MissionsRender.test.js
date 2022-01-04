@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 
-import Missions from '../components/Missions';
+import Missions from '../components/Missions/Missions';
 import missionsData from '../data/missions';
 
 describe('10 - Renderize uma lista com as missões espaciais', () => {

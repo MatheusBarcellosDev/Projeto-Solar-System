@@ -1,6 +1,6 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
-import MissionCard from '../components/MissionCard';
+import MissionCard from '../components/MissionCard/MissionCard';
 
 const missionTest = {
   year: "2021",

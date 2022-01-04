@@ -1,7 +1,7 @@
 import React from 'react';
 import { render, screen } from '@testing-library/react';
 import App from '../App';
-import Missions from '../components/Missions';
+import Missions from '../components/Missions/Missions';
 
 describe('7 - Crie um componente chamado `Missions`', () => {
   it('Será validado se o componente `<Missions />` é renderizado', () => {

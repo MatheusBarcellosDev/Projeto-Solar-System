@@ -1,3 +1,13 @@
 .App {
-  text-align: center;
+  background-color: black;
+  background-image: url('./images/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+.content {
+  margin: 0 auto;
+  max-width: 1200px;
 }
