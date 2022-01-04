@@ -6,7 +6,7 @@ import PlanetCard from '../PlanetCard';
 
 import Container from './styles';
 
-import planets from '../../data/planets.js';
+import planets from '../../data/planets';
 
 class SolarSystem extends Component {
   render() {

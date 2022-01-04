@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import Title from '../Title';
 import MissionCard from '../MissionCard';
 
-import missions from '../../data/missions.js';
+import missions from '../../data/missions';
 
-import Container from './styles.js';
+import Container from './styles';
 
 class Missions extends Component {
   render() {
