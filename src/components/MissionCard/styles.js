@@ -18,7 +18,7 @@ const Container = styled.div`
 
     p{
         font-size: 1.4rem;
-        padding: 0.3rem;
+        padding: 0.2.5rem;
     }
 
     &:hover {
