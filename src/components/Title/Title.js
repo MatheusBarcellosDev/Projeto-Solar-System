@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
-import Container from './styles';
+import Container from './styles.js';
 
 class Title extends Component {
   render() {

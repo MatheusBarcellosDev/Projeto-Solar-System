@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import Title from '../Title/Title';
-import MissionCard from '../MissionCard/MissionCard';
+import Title from '../Title/Title.js';
+import MissionCard from '../MissionCard/MissionCard.js';
 
-import missions from '../../data/missions';
+import missions from '../../data/missions.js';
 
-import Container from './styles';
+import Container from './styles.js';
 
 class Missions extends Component {
   render() {
